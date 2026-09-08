@@ -85,4 +85,4 @@ Excel 365 · Power Query (M) · Data Model · Pivot Tables · Slicers & Timeline
 
 *I spent 12 years in QA/QC on refinery, steel plant and fabrication projects — IOCL Paradip, Jindal Steel Angul, Tata Steel HSM. The assumption in this model about planned maintenance and production loss comes from having scheduled that work on live plants, not from a tutorial.*
 
-**More work:**  **Contact:** skbiswal5244@gmail.com
+**Contact:** skbiswal5244@gmail.com
